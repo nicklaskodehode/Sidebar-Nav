@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    font-size: 25px;
+    outline-color: black;
+    outline-style: dashed;
+    outline-width: 3px;
+}
+p{
+    font-size: 20px;
+}
